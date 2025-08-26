@@ -2,8 +2,7 @@
   "name": "portfol",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mariahbless.github.io/hunback-frontend",
-
+  "homepage": "https://mariahbless.github.io/Hunback-frontend",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.7.0",
