@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hunback-frontend/static/css/main.0fffbc88.css",
-    "main.js": "/hunback-frontend/static/js/main.dc41670a.js",
+    "main.js": "/hunback-frontend/static/js/main.eef1da0a.js",
     "static/js/453.06aa1f6d.chunk.js": "/hunback-frontend/static/js/453.06aa1f6d.chunk.js",
     "static/media/hun.jpg": "/hunback-frontend/static/media/hun.abd0ecfc0163b8a2da69.jpg",
     "static/media/logo.png": "/hunback-frontend/static/media/logo.37a2fe09b1ca19e1b597.png",
@@ -21,11 +21,11 @@
     "static/media/logo2.jpg": "/hunback-frontend/static/media/logo2.58d7170cdfeb4e50048e.jpg",
     "index.html": "/hunback-frontend/index.html",
     "main.0fffbc88.css.map": "/hunback-frontend/static/css/main.0fffbc88.css.map",
-    "main.dc41670a.js.map": "/hunback-frontend/static/js/main.dc41670a.js.map",
+    "main.eef1da0a.js.map": "/hunback-frontend/static/js/main.eef1da0a.js.map",
     "453.06aa1f6d.chunk.js.map": "/hunback-frontend/static/js/453.06aa1f6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0fffbc88.css",
-    "static/js/main.dc41670a.js"
+    "static/js/main.eef1da0a.js"
   ]
 }
