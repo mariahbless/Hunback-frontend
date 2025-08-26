@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/hunback-frontend/static/css/main.0fffbc88.css",
+    "main.js": "/hunback-frontend/static/js/main.dbbbe7b3.js",
+    "static/js/453.06aa1f6d.chunk.js": "/hunback-frontend/static/js/453.06aa1f6d.chunk.js",
+    "static/media/hun.jpg": "/hunback-frontend/static/media/hun.abd0ecfc0163b8a2da69.jpg",
+    "static/media/logo.png": "/hunback-frontend/static/media/logo.37a2fe09b1ca19e1b597.png",
+    "static/media/image8.jpg": "/hunback-frontend/static/media/image8.70cdce730a23d619bdc1.jpg",
+    "static/media/image2.jpg": "/hunback-frontend/static/media/image2.35f47c3e9141cd271898.jpg",
+    "static/media/image5.jpg": "/hunback-frontend/static/media/image5.588438b9bb324328366d.jpg",
+    "static/media/loan.jpg": "/hunback-frontend/static/media/loan.196a8b8b87f1cf2094d9.jpg",
+    "static/media/image6.jpg": "/hunback-frontend/static/media/image6.148a3fa763aba5df1078.jpg",
+    "static/media/land.jpg": "/hunback-frontend/static/media/land.0b524aab947fba8deb42.jpg",
+    "static/media/image4.jpg": "/hunback-frontend/static/media/image4.cc1ea2c55bf9d098cb06.jpg",
+    "static/media/image3.jpg": "/hunback-frontend/static/media/image3.beaa9f9b4cd300b216e8.jpg",
+    "static/media/image1.jpg": "/hunback-frontend/static/media/image1.3ae478e2de8c274e2a98.jpg",
+    "static/media/image7.jpg": "/hunback-frontend/static/media/image7.526e4f6f9c8f9739a8f6.jpg",
+    "static/media/facebook.png": "/hunback-frontend/static/media/facebook.48a4683f3ea3cfd26d26.png",
+    "static/media/x.png": "/hunback-frontend/static/media/x.df64fde1d7447b0e8a41.png",
+    "static/media/linkedin.png": "/hunback-frontend/static/media/linkedin.10601067d69159d5e860.png",
+    "static/media/logo2.jpg": "/hunback-frontend/static/media/logo2.58d7170cdfeb4e50048e.jpg",
+    "index.html": "/hunback-frontend/index.html",
+    "main.0fffbc88.css.map": "/hunback-frontend/static/css/main.0fffbc88.css.map",
+    "main.dbbbe7b3.js.map": "/hunback-frontend/static/js/main.dbbbe7b3.js.map",
+    "453.06aa1f6d.chunk.js.map": "/hunback-frontend/static/js/453.06aa1f6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fffbc88.css",
+    "static/js/main.dbbbe7b3.js"
+  ]
+}
