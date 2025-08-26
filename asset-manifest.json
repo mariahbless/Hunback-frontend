@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Hunback-frontend/static/css/main.0fffbc88.css",
-    "main.js": "/Hunback-frontend/static/js/main.218d5ace.js",
+    "main.js": "/Hunback-frontend/static/js/main.47058299.js",
     "static/js/453.06aa1f6d.chunk.js": "/Hunback-frontend/static/js/453.06aa1f6d.chunk.js",
     "static/media/hun.jpg": "/Hunback-frontend/static/media/hun.abd0ecfc0163b8a2da69.jpg",
     "static/media/logo.png": "/Hunback-frontend/static/media/logo.37a2fe09b1ca19e1b597.png",
@@ -21,11 +21,11 @@
     "static/media/logo2.jpg": "/Hunback-frontend/static/media/logo2.58d7170cdfeb4e50048e.jpg",
     "index.html": "/Hunback-frontend/index.html",
     "main.0fffbc88.css.map": "/Hunback-frontend/static/css/main.0fffbc88.css.map",
-    "main.218d5ace.js.map": "/Hunback-frontend/static/js/main.218d5ace.js.map",
+    "main.47058299.js.map": "/Hunback-frontend/static/js/main.47058299.js.map",
     "453.06aa1f6d.chunk.js.map": "/Hunback-frontend/static/js/453.06aa1f6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0fffbc88.css",
-    "static/js/main.218d5ace.js"
+    "static/js/main.47058299.js"
   ]
 }
