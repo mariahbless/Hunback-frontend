@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Hunback-frontend/static/css/main.90a7400e.css",
-    "main.js": "/Hunback-frontend/static/js/main.d2eda996.js",
+    "main.js": "/Hunback-frontend/static/js/main.d0d6accd.js",
     "static/js/453.06aa1f6d.chunk.js": "/Hunback-frontend/static/js/453.06aa1f6d.chunk.js",
     "static/media/hun.jpg": "/Hunback-frontend/static/media/hun.abd0ecfc0163b8a2da69.jpg",
+    "static/media/image8.jpg": "/Hunback-frontend/static/media/image8.24a2c620ee5aaf2aebc5.jpg",
     "static/media/logo.png": "/Hunback-frontend/static/media/logo.37a2fe09b1ca19e1b597.png",
-    "static/media/image8.jpg": "/Hunback-frontend/static/media/image8.70cdce730a23d619bdc1.jpg",
-    "static/media/image2.jpg": "/Hunback-frontend/static/media/image2.35f47c3e9141cd271898.jpg",
+    "static/media/image6.jpg": "/Hunback-frontend/static/media/image6.9cc28477c82087f4a5c4.jpg",
+    "static/media/image2.jpg": "/Hunback-frontend/static/media/image2.1ea75c67c2d6b11593ff.jpg",
+    "static/media/image3.jpg": "/Hunback-frontend/static/media/image3.15ae083b0a86abb73285.jpg",
     "static/media/image5.jpg": "/Hunback-frontend/static/media/image5.588438b9bb324328366d.jpg",
     "static/media/loan.jpg": "/Hunback-frontend/static/media/loan.196a8b8b87f1cf2094d9.jpg",
-    "static/media/image6.jpg": "/Hunback-frontend/static/media/image6.148a3fa763aba5df1078.jpg",
     "static/media/land.jpg": "/Hunback-frontend/static/media/land.0b524aab947fba8deb42.jpg",
     "static/media/facebook.png": "/Hunback-frontend/static/media/facebook.d820381cc9d7eb920463.png",
     "static/media/image4.jpg": "/Hunback-frontend/static/media/image4.cc1ea2c55bf9d098cb06.jpg",
-    "static/media/image3.jpg": "/Hunback-frontend/static/media/image3.beaa9f9b4cd300b216e8.jpg",
     "static/media/image1.jpg": "/Hunback-frontend/static/media/image1.3ae478e2de8c274e2a98.jpg",
     "static/media/image7.jpg": "/Hunback-frontend/static/media/image7.526e4f6f9c8f9739a8f6.jpg",
     "static/media/x.png": "/Hunback-frontend/static/media/x.df64fde1d7447b0e8a41.png",
@@ -21,11 +21,11 @@
     "static/media/logo2.jpg": "/Hunback-frontend/static/media/logo2.58d7170cdfeb4e50048e.jpg",
     "index.html": "/Hunback-frontend/index.html",
     "main.90a7400e.css.map": "/Hunback-frontend/static/css/main.90a7400e.css.map",
-    "main.d2eda996.js.map": "/Hunback-frontend/static/js/main.d2eda996.js.map",
+    "main.d0d6accd.js.map": "/Hunback-frontend/static/js/main.d0d6accd.js.map",
     "453.06aa1f6d.chunk.js.map": "/Hunback-frontend/static/js/453.06aa1f6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90a7400e.css",
-    "static/js/main.d2eda996.js"
+    "static/js/main.d0d6accd.js"
   ]
 }
